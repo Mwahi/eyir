@@ -5,7 +5,10 @@
 Your gear and stats are a lot less meaningful to tanking than your actual play. So, if you're struggling on appropriately geared content, it's because you are playing poorly. Read the guide, learn the spec, and learn to make your own decisions.
 
 **Q:** I’m having trouble keeping aggro on enemies, why is that?
-**A:** Make sure you're using the right talents, particularly Unstoppable Force, Booming Voice, and Anger Management. Protection has extremely high damage output and as a result extremely high threat output. If you are having threat issues you are likely making mistakes.
+**A:** Make sure you're using Avatar and Demoralizing Shout (with Booming Voice talented) on cooldown as these two will help increase your damage output significantly. Also be sure that you are following the priority rotation mentioned in the guides. If you are having threat issues you are likely making mistakes.
 
-**Q:** What traits should I use for Mythic+?
-**A:** You should generally try to maximize damage in M+. As such, you'd want 1 Deafening Crash + 3 Bastion of Might and then any defensive traits. See the Icy Veins guide for more specific recommendations.
+**Q:** What Legendary should I use for Mythic+ / Raids?
+**A:** For Mythic+ you should use Thunderlords as you will constantly be hitting 2+ enemies reducing the cooldown of Demoralizing Shout by a significant amount. For raids you should use The Wall. It increases your single-target Rage generation while also reducing the cooldown on one of your strongest defensive abilities.
+
+**Q:** Which Covenant should I pick?
+**A:** You can pick whichever Covenant suites you best. Generally performance wise Kyrian and Night Fae will be the best options. While Venthyr and Necrolord are a bit behind the other two, picking them will not hinder you in doing your daily activities. Covenants are prone to be buffed and nerfed throughout Shadowlands so what is best today might not be the best tomorrow.
